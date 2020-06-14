@@ -1,0 +1,12 @@
+body {
+  background-color: burlywood;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
